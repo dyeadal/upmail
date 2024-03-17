@@ -1,6 +1,6 @@
 # UpEmail
 
-Work in Progress 
+:warning: Work in Progress :warning:
 
 Easily recieve email notifications on available updates on your GNU/Linux system(s)
 
